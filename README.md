@@ -11,5 +11,7 @@ NMT2: Build 2 different graphs and sessions for training and inference. Share th
 NMT3: Add visualization of training loss and two graphs by tensorboard. Use multilayer LSTM and beam search.
 
 Reference: 
-https://tensorflow.google.cn/tutorials/seq2seq
+
+https://tensorflow.google.cn/tutorials/seq2seq  
+
 https://arxiv.org/abs/1609.08144
