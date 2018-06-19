@@ -8,7 +8,7 @@ NMT1: Build encoder-decoder model with attention mechanism for machine translati
 
 NMT2: Build 2 different graphs and sessions for training and inference. Share the weights by saver.
 
-NMT3: Add visualization of training loss and two graphs by tensorboard. Use multilayer LSTM and beam search.
+NMT3: Add visualization of training loss and two graphs by tensorboard. Use multilayer LSTM and beam search and dropout
 
 Reference: 
 
